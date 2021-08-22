@@ -198,17 +198,11 @@ export default function Home(): JSX.Element {
       <footer className="flex items-center justify-center w-full h-24 border-t">
         <a
           className="flex items-center justify-center px-1"
-          href="https://jayshirley.com"
+          href="https://github.com/jshirley/whattimeisit"
           target="_blank"
         >
-          Built by{' '}
-          Jay Shirley
+          Patches welcome :)
         </a>
-        <span
-          className="flex items-center justify-center"
-        >
-          with help from NextJS, Tailwind, Vercel, and The Noun Project
-        </span>
       </footer>
     </div>
   )

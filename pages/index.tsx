@@ -198,7 +198,7 @@ export default function Home(): JSX.Element {
       <footer className="flex items-center justify-center w-full h-24 border-t">
         <a
           className="flex items-center justify-center px-1"
-          href="https://github.com/jshirley/whattimeisit"
+          href="https://github.com/oilcan/whattimeisit"
           target="_blank"
         >
           Patches welcome :)
